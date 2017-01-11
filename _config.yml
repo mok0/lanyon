@@ -1,6 +1,6 @@
 # Permalinks
 #
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
 
 # Setup
