@@ -20,7 +20,7 @@ which is a bit useless without the possibility to reserve an IP
 address on the LAN to forward traffic to.
 
 Instead, you need to specify the DHCP reservations manually by making
-a small change in the Nanostations operating system. Log on to the
+a small change in the Nanostation's operating system. Log on to the
 Nanostation from a terminal:
 
     ssh admin@192.168.50.252
