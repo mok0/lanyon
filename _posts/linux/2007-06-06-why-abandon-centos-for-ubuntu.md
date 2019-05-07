@@ -1,6 +1,13 @@
-Wed, 06 Jun 2007 13:49:49 GMT
+---
+layout: post
+title: Why abandon CentOS for Ubuntu?
+date: 2007-06-06
+# Wed, 06 Jun 2007 13:49:49 GMT
+created: 1181137789
+modified: 1181137789
+category: linux
+---
 
-Why abandon CentOS for Ubuntu?
 
 ## My Linux experience
 
